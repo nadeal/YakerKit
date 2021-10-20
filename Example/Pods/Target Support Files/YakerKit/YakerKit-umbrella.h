@@ -12,6 +12,7 @@
 
 #import "InfoButton.h"
 #import "ModuleModel.h"
+#import "CTMediator.h"
 #import "ToolsAPageView.h"
 
 FOUNDATION_EXPORT double YakerKitVersionNumber;

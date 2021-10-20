@@ -1,0 +1,16 @@
+PODS:
+  - MaDaKit (0.1.0)
+
+DEPENDENCIES:
+  - MaDaKit (from `../`)
+
+EXTERNAL SOURCES:
+  MaDaKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MaDaKit: 2b2e7c31900a39c8ef922b358737c4485cdbd319
+
+PODFILE CHECKSUM: b655577573f6da743f3cda767e6ac5dce9bfb21c
+
+COCOAPODS: 1.10.1

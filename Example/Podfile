@@ -1,0 +1,14 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'MaDaKit_Example' do
+  
+  pod 'MaDaKit', :path => '../'
+
+  target 'MaDaKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

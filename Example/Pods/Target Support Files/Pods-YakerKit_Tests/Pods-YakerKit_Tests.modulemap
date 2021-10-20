@@ -1,0 +1,6 @@
+framework module Pods_YakerKit_Tests {
+  umbrella header "Pods-YakerKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

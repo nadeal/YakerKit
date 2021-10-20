@@ -1,16 +1,16 @@
 PODS:
-  - MaDaKit (0.1.0)
+  - YakerKit (0.1.0)
 
 DEPENDENCIES:
-  - MaDaKit (from `../`)
+  - YakerKit (from `../`)
 
 EXTERNAL SOURCES:
-  MaDaKit:
+  YakerKit:
     :path: "../"
 
 SPEC CHECKSUMS:
-  MaDaKit: 2b2e7c31900a39c8ef922b358737c4485cdbd319
+  YakerKit: d0a88327abf07c61c8b3c308bfb5d3466b620230
 
-PODFILE CHECKSUM: b655577573f6da743f3cda767e6ac5dce9bfb21c
+PODFILE CHECKSUM: 42281df52a7e768f2f87c788fc2df9db7924181b
 
 COCOAPODS: 1.10.1

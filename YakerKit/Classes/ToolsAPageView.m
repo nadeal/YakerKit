@@ -7,6 +7,7 @@
 
 #import "ToolsAPageView.h"
 #import <YakerKit/InfoButton.h>
+#import <YakerKit/ModuleModel.h>
 
 @interface ToolsAPageView ()
 
@@ -39,6 +40,9 @@
 }
 
 - (void)onBackMethod {
+    
+    ModuleModel *tempModel = [ModuleModel sharedModuleModel];
+    tempModel.name = @"张三的单例 名字";
     [self dismissViewControllerAnimated:YES completion:nil];
 }
 

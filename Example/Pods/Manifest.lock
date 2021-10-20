@@ -1,5 +1,5 @@
 PODS:
-  - YakerKit (0.1.0)
+  - YakerKit (0.1.3)
 
 DEPENDENCIES:
   - YakerKit (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  YakerKit: d0a88327abf07c61c8b3c308bfb5d3466b620230
+  YakerKit: c247e865165214a375bfdcd9416cba9356e3966d
 
 PODFILE CHECKSUM: 42281df52a7e768f2f87c788fc2df9db7924181b
 

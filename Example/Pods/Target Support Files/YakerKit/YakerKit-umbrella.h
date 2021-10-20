@@ -11,6 +11,7 @@
 #endif
 
 #import "InfoButton.h"
+#import "ModuleModel.h"
 #import "ToolsAPageView.h"
 
 FOUNDATION_EXPORT double YakerKitVersionNumber;

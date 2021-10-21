@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'YakerKit'
-  s.version          = '0.1.4'
+  s.version          = '0.1.5'
   s.summary          = 'A short description of YakerKit.'
 
 # This description is used to generate tags and improve search results.
@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'YakerKit/Classes/**/*'
+  s.source_files = 'YakerKit/KitClasses/**/*'
   
   # s.resource_bundles = {
   #   'YakerKit' => ['YakerKit/Assets/*.png']

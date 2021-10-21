@@ -8,21 +8,21 @@
 
 /* Begin PBXBuildFile section */
 		13CDBF5ED2C691539AF476FAD803D296 /* Pods-YakerKit_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B56832F9A6BD07A943BD1ABCAC8E1165 /* Pods-YakerKit_Example-dummy.m */; };
-		2C0885CB60E2B12C4D160165E76E5E0A /* ModuleModel.h in Headers */ = {isa = PBXBuildFile; fileRef = DC38D9C68F4A8578F0B4FB10BFC00D23 /* ModuleModel.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3C6FFC66EFE4F4BCC1A3E9898BEF8DDF /* InfoButton.h in Headers */ = {isa = PBXBuildFile; fileRef = D6547874FDDCD9A6E2F3E87655BF43C1 /* InfoButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		46E8170290C9E92346694657694C39DF /* ModuleModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 841F3026CF07315E72BA677A9CE4E713 /* ModuleModel.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6155888364CE40656867DE54182118BF /* Pods-YakerKit_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = EF990DF01C1AB62EE45E1C3CF84DA8C3 /* Pods-YakerKit_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		64BCB4A19364BB3461DC99E11A6D6166 /* CTMediator.m in Sources */ = {isa = PBXBuildFile; fileRef = 4155F6B8E3307E4A16E63F9609D68241 /* CTMediator.m */; };
-		6E3CC49882A71A2EF47DB79D4D1B3727 /* ToolsAPageView.h in Headers */ = {isa = PBXBuildFile; fileRef = ADCC86198A653543B89F5DE6BAF9EC49 /* ToolsAPageView.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		6FCA6BE63CFE43C33168BD7C8621009E /* YakerKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 19C9F712B71F94D55A6C37025070A09E /* YakerKit-dummy.m */; };
-		87466EA95CE0C85FE4734E8C861867E6 /* InfoButton.m in Sources */ = {isa = PBXBuildFile; fileRef = C0F5F8CE18BE4BC23C6BC9B0C1BE8059 /* InfoButton.m */; };
+		618FAEFA24090DD99F7E4BC1A3DA2AB8 /* ToolsAPageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 941338741DA49C0E1AF3F6851DE275AA /* ToolsAPageView.m */; };
+		64BCB4A19364BB3461DC99E11A6D6166 /* CTMediator.m in Sources */ = {isa = PBXBuildFile; fileRef = EC67D37AFFAFBDC120718DD7231E9E09 /* CTMediator.m */; };
+		6FCA6BE63CFE43C33168BD7C8621009E /* YakerKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 47D487174869D196E7B5E477A1074365 /* YakerKit-dummy.m */; };
+		859E598B31878FDC081A95F4F39697C5 /* ToolsAPageView.h in Headers */ = {isa = PBXBuildFile; fileRef = 6AA06417B92B561367988ED2DAB4CC2F /* ToolsAPageView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		89DF7A2F7059901C1B1ED794D014C484 /* ModuleModel.m in Sources */ = {isa = PBXBuildFile; fileRef = D84D563C81C739D26C4E1826520A5E53 /* ModuleModel.m */; };
 		92FBBF990B7FE214190C5C06AAC8F136 /* Pods-YakerKit_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0778529993574EDA6712E01FD14D169C /* Pods-YakerKit_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		AD6A377FC11D06848F6CDEB3AE0E6357 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		B380786E7305AF3C8561E49CD4B8058B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		B797C5C1AF9592D901E6F60A7F91D39E /* InfoButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 663BF3BAA5D4F1822B12A65DDD1D92D5 /* InfoButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		BE27E51075ED4E150170440BD5A7ED41 /* ModuleModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D6AB5C01F82180A759DB2B5290EE53C /* ModuleModel.m */; };
 		C7B04DA6B6FBBEA606726A609870FCF9 /* Pods-YakerKit_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B69B875AB04731E44E99CCEA5A504399 /* Pods-YakerKit_Tests-dummy.m */; };
-		D3F36D9044BD202B8FF5FF8FECF47625 /* YakerKit-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E5C842D913A53B1B929CFDD66A8DAB37 /* YakerKit-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D50BC51DF60900152DD23FCAA4489042 /* CTMediator.h in Headers */ = {isa = PBXBuildFile; fileRef = DCFA46EACDF955EDC6CAA4635F909C7D /* CTMediator.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		F5FD8736C36C9A87C695F49F380D7E63 /* ToolsAPageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5875876935BF4937B0F19FAABF18B0B1 /* ToolsAPageView.m */; };
+		D3F36D9044BD202B8FF5FF8FECF47625 /* YakerKit-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4CCF0DDFDC522A0F7258B32EAFDF589D /* YakerKit-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D50BC51DF60900152DD23FCAA4489042 /* CTMediator.h in Headers */ = {isa = PBXBuildFile; fileRef = 9A395DAC76EBADEAB21EDAC8DC821B43 /* CTMediator.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D785687B45FD7F65E1500AB6CBCF0302 /* InfoButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D8C8B86D75A75CE1CB723BFD2686AB4 /* InfoButton.m */; };
 		F9F346B223A479A152DCF3E7C291AE3F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
@@ -47,43 +47,43 @@
 		0058A590E3B70DE46D3D673C536B9BF0 /* Pods-YakerKit_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-YakerKit_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		0778529993574EDA6712E01FD14D169C /* Pods-YakerKit_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-YakerKit_Example-umbrella.h"; sourceTree = "<group>"; };
 		091E0E5B410A895ADDDAC1DD5E97583B /* Pods-YakerKit_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-YakerKit_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		121FDEA9EFBE169317F187F9D49536B5 /* YakerKit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = YakerKit.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		1825CBB3FCFF75694C60B18E2A368ED6 /* Pods-YakerKit_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-YakerKit_Tests-Info.plist"; sourceTree = "<group>"; };
-		19C9F712B71F94D55A6C37025070A09E /* YakerKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "YakerKit-dummy.m"; sourceTree = "<group>"; };
 		35DE3743043D00113A2FADEB2088017F /* Pods-YakerKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-YakerKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		3DB48164E11C627A150CFCA08B9FC42D /* Pods-YakerKit_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-YakerKit_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		4155F6B8E3307E4A16E63F9609D68241 /* CTMediator.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = CTMediator.m; sourceTree = "<group>"; };
 		47061CF8B3D6E9EAA00AF0EDD4259354 /* YakerKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = YakerKit.framework; path = YakerKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		47A9E828E7769A4FB1E73C8D1F1F6B97 /* YakerKit.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = YakerKit.release.xcconfig; sourceTree = "<group>"; };
-		4CCCF99A75BCD6BF8C59ADA56A9E0BFD /* YakerKit.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = YakerKit.debug.xcconfig; sourceTree = "<group>"; };
+		47D487174869D196E7B5E477A1074365 /* YakerKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "YakerKit-dummy.m"; sourceTree = "<group>"; };
+		494EE258107FBCAEA90E128150FD9E2A /* YakerKit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = YakerKit.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		4957EDDAA43FE14AC49209CFA771D5C4 /* YakerKit.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = YakerKit.debug.xcconfig; sourceTree = "<group>"; };
+		4CCF0DDFDC522A0F7258B32EAFDF589D /* YakerKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "YakerKit-umbrella.h"; sourceTree = "<group>"; };
 		573A55A19ACF4207EDCFE6FEB2E6D68B /* Pods-YakerKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-YakerKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		5875876935BF4937B0F19FAABF18B0B1 /* ToolsAPageView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ToolsAPageView.m; path = YakerKit/Classes/ToolsAPageView.m; sourceTree = "<group>"; };
 		62722C3EDC2332857FA3AABE3B89E017 /* Pods-YakerKit_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-YakerKit_Example-frameworks.sh"; sourceTree = "<group>"; };
-		65CF9182FB285F1F73AB61F488F71B39 /* YakerKit-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "YakerKit-Info.plist"; sourceTree = "<group>"; };
-		663BF3BAA5D4F1822B12A65DDD1D92D5 /* InfoButton.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = InfoButton.h; path = YakerKit/Classes/InfoButton.h; sourceTree = "<group>"; };
-		6D6AB5C01F82180A759DB2B5290EE53C /* ModuleModel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ModuleModel.m; path = YakerKit/Classes/ModuleModel.m; sourceTree = "<group>"; };
+		6AA06417B92B561367988ED2DAB4CC2F /* ToolsAPageView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ToolsAPageView.h; path = YakerKit/KitClasses/ToolsAPageView.h; sourceTree = "<group>"; };
+		6D8C8B86D75A75CE1CB723BFD2686AB4 /* InfoButton.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = InfoButton.m; path = YakerKit/KitClasses/InfoButton.m; sourceTree = "<group>"; };
+		71273D3EC22BE88DF94D595E89EC81DF /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		781111B4A5DC517DBACCC9AC29D8C6BC /* Pods-YakerKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-YakerKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		790741BA04986C9AC010BC357707A49C /* Pods-YakerKit_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-YakerKit_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		841F3026CF07315E72BA677A9CE4E713 /* ModuleModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ModuleModel.h; path = YakerKit/KitClasses/ModuleModel.h; sourceTree = "<group>"; };
+		8B93C7277A67BC0A0556FFDDF135EA5D /* YakerKit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "YakerKit-prefix.pch"; sourceTree = "<group>"; };
+		924F50DFD81459D8152FE2664339AE4E /* YakerKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = YakerKit.modulemap; sourceTree = "<group>"; };
+		941338741DA49C0E1AF3F6851DE275AA /* ToolsAPageView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ToolsAPageView.m; path = YakerKit/KitClasses/ToolsAPageView.m; sourceTree = "<group>"; };
 		947EC821390BAF1CF86B6AFBF11B7D88 /* Pods-YakerKit_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-YakerKit_Tests.modulemap"; sourceTree = "<group>"; };
+		9A395DAC76EBADEAB21EDAC8DC821B43 /* CTMediator.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = CTMediator.h; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A53F247629F75E476BB12FC18F8E9E60 /* YakerKit-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "YakerKit-Info.plist"; sourceTree = "<group>"; };
 		A85CE8E20B3D587B532B5A0846B31D47 /* Pods-YakerKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-YakerKit_Example.release.xcconfig"; sourceTree = "<group>"; };
-		ADCC86198A653543B89F5DE6BAF9EC49 /* ToolsAPageView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ToolsAPageView.h; path = YakerKit/Classes/ToolsAPageView.h; sourceTree = "<group>"; };
 		B56832F9A6BD07A943BD1ABCAC8E1165 /* Pods-YakerKit_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-YakerKit_Example-dummy.m"; sourceTree = "<group>"; };
 		B69B875AB04731E44E99CCEA5A504399 /* Pods-YakerKit_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-YakerKit_Tests-dummy.m"; sourceTree = "<group>"; };
-		C0F5F8CE18BE4BC23C6BC9B0C1BE8059 /* InfoButton.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = InfoButton.m; path = YakerKit/Classes/InfoButton.m; sourceTree = "<group>"; };
-		CC120E8FB3772A7B9C58A7E01ADF688F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		CE5E49510CF8ED6CFD41B66FAD696D7C /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		C2C8F125C1A6A7F4FD758A0E287F1475 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		CF3FD33B1D1C4F7F839E51BA794186D3 /* Pods_YakerKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_YakerKit_Tests.framework; path = "Pods-YakerKit_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D3714E4ED5BFF956B29120EB8799269B /* YakerKit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "YakerKit-prefix.pch"; sourceTree = "<group>"; };
-		DC38D9C68F4A8578F0B4FB10BFC00D23 /* ModuleModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ModuleModel.h; path = YakerKit/Classes/ModuleModel.h; sourceTree = "<group>"; };
-		DCFA46EACDF955EDC6CAA4635F909C7D /* CTMediator.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = CTMediator.h; sourceTree = "<group>"; };
+		D6547874FDDCD9A6E2F3E87655BF43C1 /* InfoButton.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = InfoButton.h; path = YakerKit/KitClasses/InfoButton.h; sourceTree = "<group>"; };
+		D84D563C81C739D26C4E1826520A5E53 /* ModuleModel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ModuleModel.m; path = YakerKit/KitClasses/ModuleModel.m; sourceTree = "<group>"; };
 		E4FDB84555A7B8CB5A7D4079AE90C125 /* Pods-YakerKit_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-YakerKit_Example-Info.plist"; sourceTree = "<group>"; };
-		E5C842D913A53B1B929CFDD66A8DAB37 /* YakerKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "YakerKit-umbrella.h"; sourceTree = "<group>"; };
 		E83A85E12919551D5CC1593C632D537C /* Pods-YakerKit_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-YakerKit_Example.modulemap"; sourceTree = "<group>"; };
+		EC67D37AFFAFBDC120718DD7231E9E09 /* CTMediator.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = CTMediator.m; sourceTree = "<group>"; };
 		EF990DF01C1AB62EE45E1C3CF84DA8C3 /* Pods-YakerKit_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-YakerKit_Tests-umbrella.h"; sourceTree = "<group>"; };
 		F4F8E3F0A71E05CF7F078100C17A1F5D /* Pods_YakerKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_YakerKit_Example.framework; path = "Pods-YakerKit_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		FF8F4518ADEA5C23FEB63FC6F2B4C062 /* YakerKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = YakerKit.modulemap; sourceTree = "<group>"; };
+		FF7278E6773E92309261FAD94D4A50BA /* YakerKit.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = YakerKit.release.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,24 +114,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		20D9B6F0D07ACB9695883765398C659E /* Pod */ = {
+		1383861A89C6BCA4904A20E05AA63667 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				CC120E8FB3772A7B9C58A7E01ADF688F /* LICENSE */,
-				CE5E49510CF8ED6CFD41B66FAD696D7C /* README.md */,
-				121FDEA9EFBE169317F187F9D49536B5 /* YakerKit.podspec */,
+				C2C8F125C1A6A7F4FD758A0E287F1475 /* LICENSE */,
+				71273D3EC22BE88DF94D595E89EC81DF /* README.md */,
+				494EE258107FBCAEA90E128150FD9E2A /* YakerKit.podspec */,
 			);
 			name = Pod;
-			sourceTree = "<group>";
-		};
-		27A2BDD94773C81A93056702AA872799 /* tools */ = {
-			isa = PBXGroup;
-			children = (
-				DCFA46EACDF955EDC6CAA4635F909C7D /* CTMediator.h */,
-				4155F6B8E3307E4A16E63F9609D68241 /* CTMediator.m */,
-			);
-			name = tools;
-			path = YakerKit/Classes/tools;
 			sourceTree = "<group>";
 		};
 		578452D2E740E91742655AC8F1636D1F /* iOS */ = {
@@ -161,21 +151,29 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		8E6A2B8CE07A1C3C7BA0B363DB9152F6 /* YakerKit */ = {
+		9C5BC6A804016109465F7AAA5F805CA1 /* tools */ = {
 			isa = PBXGroup;
 			children = (
-				663BF3BAA5D4F1822B12A65DDD1D92D5 /* InfoButton.h */,
-				C0F5F8CE18BE4BC23C6BC9B0C1BE8059 /* InfoButton.m */,
-				DC38D9C68F4A8578F0B4FB10BFC00D23 /* ModuleModel.h */,
-				6D6AB5C01F82180A759DB2B5290EE53C /* ModuleModel.m */,
-				ADCC86198A653543B89F5DE6BAF9EC49 /* ToolsAPageView.h */,
-				5875876935BF4937B0F19FAABF18B0B1 /* ToolsAPageView.m */,
-				20D9B6F0D07ACB9695883765398C659E /* Pod */,
-				FC928B4DD8888EDF419A1FA8BB5E07F9 /* Support Files */,
-				27A2BDD94773C81A93056702AA872799 /* tools */,
+				9A395DAC76EBADEAB21EDAC8DC821B43 /* CTMediator.h */,
+				EC67D37AFFAFBDC120718DD7231E9E09 /* CTMediator.m */,
 			);
-			name = YakerKit;
-			path = ../..;
+			name = tools;
+			path = YakerKit/KitClasses/tools;
+			sourceTree = "<group>";
+		};
+		B28FCA9B9AB565614A32E0BBD68ECBBC /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				924F50DFD81459D8152FE2664339AE4E /* YakerKit.modulemap */,
+				47D487174869D196E7B5E477A1074365 /* YakerKit-dummy.m */,
+				A53F247629F75E476BB12FC18F8E9E60 /* YakerKit-Info.plist */,
+				8B93C7277A67BC0A0556FFDDF135EA5D /* YakerKit-prefix.pch */,
+				4CCF0DDFDC522A0F7258B32EAFDF589D /* YakerKit-umbrella.h */,
+				4957EDDAA43FE14AC49209CFA771D5C4 /* YakerKit.debug.xcconfig */,
+				FF7278E6773E92309261FAD94D4A50BA /* YakerKit.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/YakerKit";
 			sourceTree = "<group>";
 		};
 		CF1408CF629C7361332E53B88F7BD30C = {
@@ -197,10 +195,27 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		DAB3CED0912C3A5610F22B096CF9B2D2 /* YakerKit */ = {
+			isa = PBXGroup;
+			children = (
+				D6547874FDDCD9A6E2F3E87655BF43C1 /* InfoButton.h */,
+				6D8C8B86D75A75CE1CB723BFD2686AB4 /* InfoButton.m */,
+				841F3026CF07315E72BA677A9CE4E713 /* ModuleModel.h */,
+				D84D563C81C739D26C4E1826520A5E53 /* ModuleModel.m */,
+				6AA06417B92B561367988ED2DAB4CC2F /* ToolsAPageView.h */,
+				941338741DA49C0E1AF3F6851DE275AA /* ToolsAPageView.m */,
+				1383861A89C6BCA4904A20E05AA63667 /* Pod */,
+				B28FCA9B9AB565614A32E0BBD68ECBBC /* Support Files */,
+				9C5BC6A804016109465F7AAA5F805CA1 /* tools */,
+			);
+			name = YakerKit;
+			path = ../..;
+			sourceTree = "<group>";
+		};
 		E5286524AB51D1650888DFCAEAA2FA29 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				8E6A2B8CE07A1C3C7BA0B363DB9152F6 /* YakerKit */,
+				DAB3CED0912C3A5610F22B096CF9B2D2 /* YakerKit */,
 			);
 			name = "Development Pods";
 			sourceTree = "<group>";
@@ -219,21 +234,6 @@
 			);
 			name = "Pods-YakerKit_Tests";
 			path = "Target Support Files/Pods-YakerKit_Tests";
-			sourceTree = "<group>";
-		};
-		FC928B4DD8888EDF419A1FA8BB5E07F9 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				FF8F4518ADEA5C23FEB63FC6F2B4C062 /* YakerKit.modulemap */,
-				19C9F712B71F94D55A6C37025070A09E /* YakerKit-dummy.m */,
-				65CF9182FB285F1F73AB61F488F71B39 /* YakerKit-Info.plist */,
-				D3714E4ED5BFF956B29120EB8799269B /* YakerKit-prefix.pch */,
-				E5C842D913A53B1B929CFDD66A8DAB37 /* YakerKit-umbrella.h */,
-				4CCCF99A75BCD6BF8C59ADA56A9E0BFD /* YakerKit.debug.xcconfig */,
-				47A9E828E7769A4FB1E73C8D1F1F6B97 /* YakerKit.release.xcconfig */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/YakerKit";
 			sourceTree = "<group>";
 		};
 		FF50A6A27E35CA274320D6F0C0C8D7DF /* Pods-YakerKit_Example */ = {
@@ -269,9 +269,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				D50BC51DF60900152DD23FCAA4489042 /* CTMediator.h in Headers */,
-				B797C5C1AF9592D901E6F60A7F91D39E /* InfoButton.h in Headers */,
-				2C0885CB60E2B12C4D160165E76E5E0A /* ModuleModel.h in Headers */,
-				6E3CC49882A71A2EF47DB79D4D1B3727 /* ToolsAPageView.h in Headers */,
+				3C6FFC66EFE4F4BCC1A3E9898BEF8DDF /* InfoButton.h in Headers */,
+				46E8170290C9E92346694657694C39DF /* ModuleModel.h in Headers */,
+				859E598B31878FDC081A95F4F39697C5 /* ToolsAPageView.h in Headers */,
 				D3F36D9044BD202B8FF5FF8FECF47625 /* YakerKit-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -410,9 +410,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				64BCB4A19364BB3461DC99E11A6D6166 /* CTMediator.m in Sources */,
-				87466EA95CE0C85FE4734E8C861867E6 /* InfoButton.m in Sources */,
-				BE27E51075ED4E150170440BD5A7ED41 /* ModuleModel.m in Sources */,
-				F5FD8736C36C9A87C695F49F380D7E63 /* ToolsAPageView.m in Sources */,
+				D785687B45FD7F65E1500AB6CBCF0302 /* InfoButton.m in Sources */,
+				89DF7A2F7059901C1B1ED794D014C484 /* ModuleModel.m in Sources */,
+				618FAEFA24090DD99F7E4BC1A3DA2AB8 /* ToolsAPageView.m in Sources */,
 				6FCA6BE63CFE43C33168BD7C8621009E /* YakerKit-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -544,7 +544,7 @@
 		};
 		54002290EAEB04ABFF561C898E4470D8 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 47A9E828E7769A4FB1E73C8D1F1F6B97 /* YakerKit.release.xcconfig */;
+			baseConfigurationReference = FF7278E6773E92309261FAD94D4A50BA /* YakerKit.release.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -608,7 +608,7 @@
 		};
 		BD45B7FD335F200EEDE374F12CA01749 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4CCCF99A75BCD6BF8C59ADA56A9E0BFD /* YakerKit.debug.xcconfig */;
+			baseConfigurationReference = 4957EDDAA43FE14AC49209CFA771D5C4 /* YakerKit.debug.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";

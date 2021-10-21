@@ -1,6 +1,6 @@
 {
   "name": "YakerKit",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A short description of YakerKit.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/nadeal",
@@ -13,10 +13,10 @@
   },
   "source": {
     "git": "https://github.com/nadeal/YakerKit.git",
-    "tag": "0.1.4"
+    "tag": "0.1.5"
   },
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "YakerKit/Classes/**/*"
+  "source_files": "YakerKit/KitClasses/**/*"
 }
